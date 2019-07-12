@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1824f8cafd87ba2459a409664eb41873
+timeCreated: 1521810554
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - idle: {instanceID: 0}
+  - pop1: {fileID: 8300000, guid: 2f97039ad49c70746ae7ae27a086d26b, type: 3}
+  - pop2: {fileID: 8300000, guid: 4305b32df90b6cd44ac3dc49477f8a4e, type: 3}
+  - pop3: {fileID: 8300000, guid: dc60e4fef5542c641ac8628507a3dbbc, type: 3}
+  - blow: {instanceID: 0}
+  - confetti: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

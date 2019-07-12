@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: a898a1b23ee2e594185c192bb91635a4
+timeCreated: 1519986224
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - FadingCanvas: {instanceID: 0}
+  - FadingCanvasEnd: {instanceID: 0}
+  - levelName: {instanceID: 0}
+  - winScreen: {instanceID: 0}
+  - balloonBonus: {fileID: 1430835592985656, guid: a02346f839fc23644989a574289757cf,
+      type: 2}
+  - winScore: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
